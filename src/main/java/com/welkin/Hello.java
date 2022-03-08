@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("我不好");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("我是hot-fix分支");
     }
 }
